@@ -2,7 +2,7 @@
 	<Pawnmorph.MorphDef ParentName="SensitiveFoodMorph">
 		<defName>DromedaryMorph</defName>
 		<label>camelmorph</label>
-		<description>TODO</description>
+		<description>A Dromedarymorph is the result of a human exposed to high doses of mutating mechanites. Because of its mutated physiology it's acquired high water retention and high heat tolerance.</description>
 		<race>Dromedary</race>
 		<classification>Camelid</classification>
 		<categories>
