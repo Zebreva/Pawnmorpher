@@ -2,7 +2,7 @@
 	<Pawnmorph.MorphDef ParentName="SensitiveFoodMorph">
 		<defName>CapybaraMorph</defName>
 		<label>capybaramorph</label>
-		<description>TODO</description>
+		<description>Capybaramorphs are the result of a human exposed to high levels of mutating mechanites. They are highly sociable and stable due to their relaxed nature.</description>
 		<race>Capybara</race>
 		<classification>Rodent</classification>
 		<categories>
